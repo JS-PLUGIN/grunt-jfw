@@ -2,22 +2,22 @@
   "name": "grunt-jfw",
   "description": "jfw first grunt plugins",
   "version": "0.1.0",
-  "homepage": "https://github.com/jiangfw/grunt",
+  "homepage": "https://github.com/JS-PLUGIN/grunt-jfw",
   "author": {
     "name": "jiangfw",
     "email": "jiangfengwei_2@126.com"
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/jiangfw/grunt.git"
+    "url": "git@github.com:JS-PLUGIN/grunt-jfw.git"
   },
   "bugs": {
-    "url": "https://github.com/jiangfw/grunt/issues"
+    "url": "https://github.com/JS-PLUGIN/grunt-jfw/issues"
   },
   "licenses": [
     {
       "type": "MIT",
-      "url": "https://github.com/jiangfw/grunt/blob/master/LICENSE-MIT"
+      "url": "https://github.com/JS-PLUGIN/grunt-jfw/blob/master/LICENSE"
     }
   ],
   "engines": {
