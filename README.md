@@ -1,6 +1,6 @@
 # jfw
 
-> jfw plugin[D[D[D[D[D[D[D first grunt plugins
+> jfw first grunt plugins
 
 ## Getting Started
 This plugin requires Grunt `~0.4.5`
