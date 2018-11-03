@@ -19,7 +19,6 @@ module.exports = function(grunt) {
       punctuation: '.',
       separator: ', '
     });
-	console.log("jfw plugin log"+options);
     // Iterate over all specified file groups.
     this.files.forEach(function(f) {
       // Concat specified files.
